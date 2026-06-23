@@ -1,0 +1,21 @@
+# Arduino build files
+*.ino.bin
+*.elf
+*.hex
+
+# Arduino IDE temporary files
+*.tmp
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
